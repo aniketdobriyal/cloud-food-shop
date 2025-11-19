@@ -1,0 +1,22 @@
+.hero {
+  height: 50vh; /* 70% of viewport height */
+  background: url("https://static.vecteezy.com/system/resources/previews/025/260/471/large_2x/grilled-beef-burger-with-fries-and-ketchup-generated-by-ai-free-photo.jpg")
+    center center / cover no-repeat;
+  position: relative;
+}
+
+/* Optional dark overlay */
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.hero .container {
+  position: relative;
+  z-index: 2;
+}

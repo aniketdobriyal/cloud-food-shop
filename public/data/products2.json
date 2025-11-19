@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Cheese Garlic Bread",
+    "price": 149,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.gjNv256wXBWJl0p2no_uXAHaJN?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 2,
+    "name": "Veggie Wrap",
+    "price": 179,
+    "image": "https://th.bing.com/th/id/OIP.hhwSpSUCKcqjYJAVysGffQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 3,
+    "name": "Pasta Alfredo",
+    "price": 239,
+    "image": "https://jessicainthekitchen.com/wp-content/uploads/2018/03/Vegan-Garlic-Alfredo-Pasta.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Choco Lava Cake",
+    "price": 129,
+    "image": "https://tornadoughalli.com/wp-content/uploads/2020/02/LAVA-CAKES-18.jpg"
+  },
+  {
+    "id": 5,
+    "name": "French Fries",
+    "price": 99,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.GqUvr8wmgKYa7LL8YpnGMAHaE7?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 6,
+    "name": "Veg Burger",
+    "price": 199,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.Waw8EClBSL-WtYHZHRJy6AHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 7,
+    "name": "Cold Coffee",
+    "price": 149,
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/04/cold-coffee-recipe-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Vanilla Ice Cream",
+    "price": 99,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.uOdGIoTdKCUMkOLeyRBmzwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 9,
+    "name": "Margherita Pizza",
+    "price": 299,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.4NRf4CcWlDDAVNCqefmG3gHaJ4?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 10,
+    "name": "Tandoori Momos",
+    "price": 159,
+    "image": "https://img.freepik.com/premium-photo/tandoori-momo-veg-non-veg-red-cream-sauce-served-with-sauce-nepal-tibet-recipe_466689-89878.jpg?w=2000"
+  },
+  {
+    "id": 11,
+    "name": "Paneer Sandwich",
+    "price": 189,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.uenxe6g1qxOnK3MxsPinegHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 12,
+    "name": "Strawberry Milkshake",
+    "price": 149,
+    "image": "https://th.bing.com/th/id/OIP.0bGRUzd9rmAB_Hz3Jp4lvwHaLG?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+  }
+]

@@ -1,0 +1,46 @@
+.navbar {
+  padding: 0.8rem 1rem;
+}
+
+.navbar-brand {
+  font-size: 1.6rem;
+  letter-spacing: 1px;
+  transform: translateX(-10%); /* Slightly shift toward center */
+}
+
+.nav-item .nav-link {
+  color: #fff !important;
+  margin: 0 10px;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.nav-item .nav-link:hover {
+  color: #00bcd4 !important;
+}
+
+.nav-icon {
+  color: #fff;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.nav-icon:hover {
+  color: #00bcd4;
+}
+
+@media (max-width: 991px) {
+  .navbar-brand {
+    transform: translateX(0);
+  }
+
+  .nav-icon {
+    font-size: 1.4rem;
+  }
+
+  .collapse.navbar-collapse {
+    background: #111;
+    padding: 1rem;
+  }
+}
